@@ -5,13 +5,13 @@
     iniciar git en la carpeta</p>
 
 <img src="/img/crearCarpeta.png">
-</br>
+
 
 <p>Tras crear la carpeta, nos iremos a la pestaña de source control y le daremos a la opción de open
     folder y seleccionamos la carpeta que creamos anteriormente</p>
 
 <img src="/img/vscodeSinGitHub.png">
-</br>
+
 
 <p>
     Creamos un archivo de prueba como por ejemplo “hola.txt” y escribimos algo en el, tras escribir
@@ -19,4 +19,4 @@ cualquier cosa, git lo guardara como un cambio y te mostrara lo que había antes
 realizar los cambios
 </p>
 
-<img src="/img/commigGit.png">
+<img src="/img/commitGit.png">
