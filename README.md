@@ -30,3 +30,63 @@ escribir el mensaje ya que si no, no se realizara el commit.
 </p>
 
 <img src="/img/mensajeCommit.png">
+
+
+<p>
+    Tambien podemos, modificar el archivo y descartar los cambios, pulsando en el botón al lado
+izquierdo del “+”, lo cual eliminara todos los cambios realizados y se quedara con la parte izquierda
+de lo enseñado, el archivo antes de ser modificado, esto puede ser muy útil para volver a un estado
+anterior a realizar cambios en un fichero y recuperar el archivo en caso de error.
+</p>
+
+<img src="/img/descartarCommit.png">
+
+<img src="/img/comparacionVersiones.png">
+
+<h2>
+VSCODE X GITHUB
+</h2>
+
+<p>
+    Para usar GitHub, crearemos un repositorio y le daremos al botón Clone Repository en vez de Open
+folder, tras esto saldrá un recuadro que pedira escribir la url del repositorio, en vez de escribir la url,
+podrás darle click justo debajo suya y enlazara tu cuenta de github con vscode
+</p>
+
+<img src="/img/vscodeConectarGithub.png">
+
+
+<p>
+    Tras esto nos saldrán todos los repositorios asociados a la cuenta con la que iniciamos sesion, le
+damos click, crearemos una carpeta en la que guardar los archivos y se sincronizara y descargara
+todos los ficheros del repositorio.
+</p>
+
+<img src="/img/vscodeRepositorio.png">
+
+<img src="/img/CarpetaGithubClonada.png">
+
+
+<p>
+    Para comprobar su funcionamiento modificaremos un archivo cualquiera y procederemos a realizar
+los mismos pasos que sin GitHub, escribimos un mensaje y le damos a commit.
+</p>
+
+<img src="/img/GithubCambiarArchivo.png">
+
+
+<p>
+    Tras esto saldrá un nuevo botón, esta vez pondrá sincronizar y podremos usarlo para subir los
+archivos modificados a GitHub, tras esto saldrá un mensaje abajo a la derecha que nos preguntara si
+queremos realizar git fetch periódicamente, le damos a permitir.
+</p>
+
+<img src="/img/sincronizar.png">
+
+<img src="/img/gitfetch.png">
+
+
+<p>
+Y con esto VSCODE realizara git fetch periódicamente, descargándose los archivos que no sean
+iguales a los de la carpeta local.
+</p>
