@@ -64,7 +64,7 @@ todos los ficheros del repositorio.
 
 <img src="/img/vscodeRepositorio.png">
 
-<img src="/img/CarpetaGithubClonada.png">
+<img src="/img/CarpetaGitHubClonada.png">
 
 
 <p>
