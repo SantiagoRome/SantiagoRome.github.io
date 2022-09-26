@@ -20,3 +20,13 @@ realizar los cambios
 </p>
 
 <img src="/img/commitGit.png">
+
+
+<p>
+    Añadimos el archivo a los cambios que queremos guardar y escribimos un mensaje en el recuadro
+encima del botón de commit, tras esto le damos al botón, en caso de no haber escrito un mensaje en
+el recuadro, saldrá un archivo en pantalla en el cual podrás escribir el mensaje, es importante
+escribir el mensaje ya que si no, no se realizara el commit.
+</p>
+
+<img src="/img/mensajeCommit.png">
