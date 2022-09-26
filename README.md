@@ -53,7 +53,7 @@ folder, tras esto saldrá un recuadro que pedira escribir la url del repositorio
 podrás darle click justo debajo suya y enlazara tu cuenta de github con vscode
 </p>
 
-<img src="/img/vscodeConectarGithub.png">
+<img src="/img/vscodeConectarGitHub.png">
 
 
 <p>
